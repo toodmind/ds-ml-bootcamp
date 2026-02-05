@@ -8,7 +8,7 @@ Instead of following fixed rules written by a programmer, a machine learning mod
 Real-Life Example: Email Spam Detection
 
 A common real-life example of machine learning is spam email filtering. Email services such as Gmail collect large datasets of emails labeled as “spam” or “not spam.” A machine learning model is trained on these examples to learn patterns such as suspicious keywords, sender behavior, and message structure.
-Once trained, the system can automatically classify new incoming emails—even ones it has never seen before—based on what it has learned from past data.
+Once trained,  the system can automatically classify new incoming emails—even ones it has never seen before—based on what it has learned from past data.
 
 
 2. Comparison Between Supervised and Unsupervised Learning
